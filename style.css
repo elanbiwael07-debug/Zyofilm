@@ -930,7 +930,7 @@ button{
 .scroolleft {
     margin: auto;
     width: 70px;
-    transform: rotateZ(90deg);
+    transform: rotate(90deg);
     position: relative;
     left: 50%;
     right: 50%;
