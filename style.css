@@ -427,7 +427,7 @@ button{
 .shortVideo {
     scroll-snap-align: start;
     height: 750px;
-    background-color: #101220;
+    background-color: #000000;
     border-radius: .5em;
     align-content: center;
     aspect-ratio: 9 / 16;
