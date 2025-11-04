@@ -932,5 +932,5 @@ button{
     width: 70px;
     transform: rotate(90deg);
     position: relative;
-    left: calc(100% - 70px);
+    left: 90%;
 }
