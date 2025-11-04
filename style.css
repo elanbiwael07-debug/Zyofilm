@@ -732,6 +732,8 @@ button{
 @media (max-width: 1280px) {
     .shortView{
         margin-top: 180px;
+        padding-top: 50px;
+        background-color: blue;
     }
 }
 
