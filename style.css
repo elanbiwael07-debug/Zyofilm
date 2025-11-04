@@ -926,3 +926,12 @@ button{
     padding-right: 20px;
     max-width: 1200px;
 }
+
+.scroolleft {
+    margin: auto;
+    width: 70px;
+    transform: rotateZ(90deg);
+    position: relative;
+    left: 50%;
+    right: 50%;
+}
