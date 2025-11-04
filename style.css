@@ -928,10 +928,10 @@ button{
 }
 
 .scroolleft {
-    margin: auto;
+    margin-top: 15px;
     width: 70px;
     transform: rotate(90deg);
     position: relative;
-    left: 50%;
-    right: 50%;
+    left: 40%;
+    right: 60%;
 }
